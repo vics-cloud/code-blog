@@ -4,21 +4,21 @@ Meta tagy jsou HTML značky, které poskytují metadata o webové stránce a pom
 
 ---
 
-### **1. ` <metaznaková sada> ` **
+### 1. ` <metaznaková sada> ` 
 - **Účel**: Nastavuje znakovou sadu, kterou stránka používá.
 - **Příklad**: `<meta charset="UTF-8">`
 - **Popis**: Zajišťuje správné zobrazení textu (např. české znaky). Nejčastější hodnota je `UTF-8`, což podporuje širokou škálu znaků.
 
 ---
 
-### **2. ` <meta name="viewport"> ` **
+### 2. ` <meta name="viewport"> ` 
 - **Účel**: Optimalizace stránky pro mobilní zařízení.
 - **Příklad**: `<meta name="viewport" content="width=device-width, initial-scale=1">`
 - **Popis**: Zajišťuje responzivní design tím, že přizpůsobí šířku stránky šířce zařízení.
 
 ---
 
-### **3. ` <meta name="robots"> ` **
+### 3. ` <meta name="robots"> ` 
 - **Účel**: Pokyny pro vyhledávače ohledně indexování stránky.
 - **Příklad**: `<meta name="robots" content="index, follow">`
 - **Popis**:
@@ -132,5 +132,5 @@ Meta tagy jsou HTML značky, které poskytují metadata o webové stránce a pom
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMzM0ODAzOF19
+eyJoaXN0b3J5IjpbLTE0MTE2MjA4NThdfQ==
 -->
