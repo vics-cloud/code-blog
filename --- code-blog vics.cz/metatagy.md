@@ -28,56 +28,56 @@ Meta tagy jsou HTML značky, které poskytují metadata o webové stránce a pom
 
 ---
 
-### **4. ` <meta name="description"> ` **
+### 4. ` <meta name="description"> ` 
 - **Účel**: Popis obsahu stránky.
 - **Příklad**: `<meta name="description" content="Toto je popis mé stránky.">`
 - **Popis**: Krátký popis, který se často zobrazuje ve výsledcích vyhledávání. Má významný vliv na SEO.
 
 ---
 
-### **5. `<meta name="keywords">`**
+### 5. `<meta name="keywords">`
 - **Účel**: Klíčová slova související se stránkou.
 - **Příklad**: `<meta name="keywords" content="programování, HTML, meta tagy">`
 - **Popis**: Dříve důležitý pro SEO, dnes má minimální význam, protože vyhledávače jej již nevyužívají.
 
 ---
 
-### **6. `<meta name="author">`**
+### 6. `<meta name="author">`
 - **Účel**: Identifikace autora stránky.
 - **Příklad**: `<meta name="author" content="Jakub Růžička">`
 - **Popis**: Užitečné pro přiřazení autorství webu, zejména v interních nebo firemních prostředích.
 
 ---
 
-### **7. `<meta name="copyright">`**
+### 7. `<meta name="copyright">`
 - **Účel**: Informace o autorských právech.
 - **Příklad**: `<meta name="copyright" content="© 2024 Jakub Růžička">`
 - **Popis**: Informuje o vlastnictví obsahu stránky.
 
 ---
 
-### **8. `<meta http-equiv="refresh">`**
+### 8. `<meta http-equiv="refresh">`
 - **Účel**: Automatické přesměrování nebo obnovení stránky.
 - **Příklad**: `<meta http-equiv="refresh" content="5;url=https://example.com">`
 - **Popis**: Přesměruje uživatele na jinou stránku po určeném čase (zde po 5 sekundách).
 
 ---
 
-### **9. `<meta http-equiv="X-UA-Compatible">`**
+### 9. `<meta http-equiv="X-UA-Compatible">`
 - **Účel**: Určuje kompatibilitu se staršími verzemi Internet Exploreru.
 - **Příklad**: `<meta http-equiv="X-UA-Compatible" content="IE=edge">`
 - **Popis**: Doporučuje prohlížeči použít nejnovější dostupnou verzi vykreslovacího jádra.
 
 ---
 
-### **10. `<meta name="theme-color">`**
+### 10. `<meta name="theme-color">`
 - **Účel**: Nastavuje barvu motivu prohlížeče na mobilních zařízeních.
 - **Příklad**: `<meta name="theme-color" content="#4CAF50">`
 - **Popis**: Umožňuje změnu barvy panelu nástrojů nebo adresního řádku.
 
 ---
 
-### **11. `<meta property="og:*">` (Open Graph)**
+### 11. `<meta property="og:*">` (Open Graph)
 - **Účel**: Nastavení sdíleného obsahu na sociálních sítích.
 - **Příklad**:
   ```html
@@ -93,7 +93,7 @@ Meta tagy jsou HTML značky, které poskytují metadata o webové stránce a pom
 
 ---
 
-### **12. `<meta name="twitter:*">`**
+### 12. `<meta name="twitter:*">`
 - **Účel**: Metadata specifická pro Twitter.
 - **Příklad**:
   ```html
@@ -108,21 +108,21 @@ Meta tagy jsou HTML značky, které poskytují metadata o webové stránce a pom
 
 ---
 
-### **13. ` <meta name="generator"> ` **
+### 13. ` <meta name="generator"> ` 
 - **Účel**: Informace o nástroji, který vytvořil stránku.- **Příklad**: `<meta name="generator" content="WordPress 6.3">`- **Popis**: Informuje o softwaru použitým k vytvoření stránky.
 
 
 
 ---
 
-### **14. ` <meta name="název-aplikace"> ` **
+### 14. ` <meta name="název-aplikace"> ` 
 - **Účel**: Název aplikace, ke které stránka patří.- **Příklad**: `<meta name="application-name" content="Moje Aplikace">`- **Popis**: Používá se zejména u progresivních webových aplikací (PWA).
 
 
 
 ---
 
-### **15. ` <meta name="rating"> ` **
+### 15. ` <meta name="rating"> ` 
 - **Účel**: Hodnocení stránky z hlediska obsahu.- **Příklad**: `<meta name="rating" content="general">`- **Popis**:  - `general`: Obsah vhodný pro všechny.  - `mature`: Obsah pro dospělé.
 
 
@@ -132,5 +132,5 @@ Meta tagy jsou HTML značky, které poskytují metadata o webové stránce a pom
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTE2MjA4NThdfQ==
+eyJoaXN0b3J5IjpbLTUyNjA3MTQ4Ml19
 -->
